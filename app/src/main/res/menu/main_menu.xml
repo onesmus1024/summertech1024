@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/account_ic"
+        android:title="logout"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/history_ic"
+        android:title="history" />
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about_ic"
+        android:title="about" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/setting_ic"
+        android:title="setting" />
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/help_ic"
+        android:title="help" />
+
+</menu>

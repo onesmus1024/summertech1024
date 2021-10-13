@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Summertech1024</string>
+    <string-array name="img_description">
+        <item>get website for your bussiness</item>
+        <item>get you android application</item>
+        <item>search engine optimization</item>
+        <item>advertise your business</item>
+    </string-array>
+    <string name="title_activity_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome_to_summertech_a_software_company">welcome to summertech a software company</string>
+    <string name="what_is_summertech">what is summertech?</string>
+    <string name="summertech_is_a_software_company_that_helps_those_who_own_small_business_to_go_online_and_realize_full_potential_of_their_business_and_hence_increase_profit">summertech is a software company that helps those who own small business to go online and realize full potential of their business and hence increase profit</string>
+    <string name="when_was_summmertech_started">when was summmertech started</string>
+    <string name="summertech_began_back_in_2021_when_a_campus_student_tried_to_compare_what_brings_the_big_margin_between_the_big_companies_and_small_scale_business">summertech began back in 2021 when a campus student tried to compare what brings the big margin between the big companies and small scale business</string>
+    <string name="founder">founder</string>
+    <string name="onesmus_is_the_founder_of_this_summertech_see_his_photo_below">onesmus is the founder of this summertech. see his photo below</string>
+    <string name="onescode_cf">onescode.cf</string>
+    <string name="visit_my_website_for_more_details">visit my website for more details..</string>
+    <string name="visit_my_website_for_more_information_onescode_cf">visit my website for more information onescode.cf</string>
+    <string name="title_activity_settings">settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
